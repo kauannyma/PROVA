@@ -20,3 +20,7 @@ O que é pull?
 O que é branch?
 
 São as ramificações do repositório. 
+
+O que é pull resquest?
+
+É a solicitação de alteração.
