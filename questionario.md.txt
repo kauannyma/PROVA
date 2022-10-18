@@ -8,3 +8,7 @@ o que é um commit ?
 O que é um repositório?
 
 É pasta de projetos onde os arquivos são guardadas.
+
+O que é merge ?
+
+É a juncão de branch.
