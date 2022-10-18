@@ -1,0 +1,3 @@
+o que é clone ?
+
+É cópia de um repositório remoto para o local.
