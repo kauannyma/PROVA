@@ -12,3 +12,7 @@ O que é um repositório?
 O que é merge ?
 
 É a juncão de branch.
+
+O que é pull?
+
+É puxar informações do repositório remoto para o local.
