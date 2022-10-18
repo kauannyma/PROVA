@@ -16,3 +16,7 @@ O que é merge ?
 O que é pull?
 
 É puxar informações do repositório remoto para o local.
+
+O que é branch?
+
+São as ramificações do repositório. 
