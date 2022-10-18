@@ -1,3 +1,6 @@
 o que é clone ?
 
 É cópia de um repositório remoto para o local.
+
+o que é um commit ?
+É o empacotamento de alterações.
