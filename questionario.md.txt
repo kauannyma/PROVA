@@ -4,3 +4,7 @@ o que é clone ?
 
 o que é um commit ?
 É o empacotamento de alterações.
+
+O que é um repositório?
+
+É pasta de projetos onde os arquivos são guardadas.
