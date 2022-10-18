@@ -24,3 +24,7 @@ São as ramificações do repositório.
 O que é pull resquest?
 
 É a solicitação de alteração.
+
+O que é fork ?
+
+É a cópia de um repositório de terceiros.
