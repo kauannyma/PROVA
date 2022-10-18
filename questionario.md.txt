@@ -28,3 +28,7 @@ O que é pull resquest?
 O que é fork ?
 
 É a cópia de um repositório de terceiros.
+
+O que é um vcs? 
+
+É um software de controle de versão.
